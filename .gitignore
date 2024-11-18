@@ -2,7 +2,6 @@
 .env
 venv
 env
-*.txt
-*.dat
-*.csv
-./files/*.*
+.vscode
+datasets
+files_dir
