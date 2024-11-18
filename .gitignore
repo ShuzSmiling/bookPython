@@ -3,5 +3,5 @@
 venv
 env
 .vscode
-datasets
-files_dir
+.datasets
+.files_dir
